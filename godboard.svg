@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="299.36673mm"
+   height="148.50024mm"
+   viewBox="0 0 299.36673 148.50024"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="godboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.93859299"
+     inkscape:cx="653.63795"
+     inkscape:cy="381.42198"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.338622,-85.863551)">
+    <path
+       style="fill:#ffd42a;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 90.354974,187.46169 c -10.217638,2.07838 -19.576064,7.30027 -28.615214,12.27939 -6.05295,3.33421 -12.510187,5.91463 -18.607792,9.17248 -1.815988,0.97025 -10.331201,5.44081 -11.069035,6.84353 -0.469439,0.89245 0.386221,2.93925 0.659872,3.81553 1.749378,5.6018 4.084218,4.82488 10.028841,4.07105 2.176916,-0.27605 4.360992,-0.52539 6.514908,-0.94468 11.345656,-2.20858 22.535269,-5.61773 33.407829,-9.50476 12.403837,-4.43447 22.520907,-8.37954 30.025557,-19.32182 0.95972,-1.39933 5.47288,-7.45085 5.08983,-9.30263 -0.0802,-0.38808 -10.05236,0.0939 -11.19524,0.16076 -1.68632,0.0986 -15.81882,0.89617 -16.239556,2.73115 z"
+       id="path2142" />
+    <g
+       id="g12041"
+       transform="rotate(-12.895505,64.329264,185.50185)">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+         d="m 67.746085,139.57055 c 4.768435,15.88467 1.090944,33.39969 2.397969,49.33419"
+         id="path1089" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+         d="m 68.806488,88.44423 c -5.396997,-0.385908 -7.772313,1.786681 -10.143982,6.299489 -2.935817,5.586261 -6.104099,14.893411 -4.941681,21.313821 1.79846,9.93349 19.12921,9.64065 25.518686,5.05746 2.91225,-2.08897 4.470707,-5.62974 5.904167,-8.78679 1.926838,-4.24366 4.569655,-10.36129 2.048973,-14.967053 -1.782834,-3.257577 -5.84884,-4.546082 -8.993534,-5.916843 -0.841965,-0.367009 -1.541468,-0.989356 -2.367029,-1.370385 -2.801363,-1.29294 -5.974776,-1.47111 -8.999193,-1.71872"
+         id="path966" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+         d="m 67.241377,97.664031 c -0.659038,2.485769 -0.927312,5.060129 -1.110226,7.619699"
+         id="path968" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+         d="m 75.408837,100.02911 c 0.3971,2.54055 0.264398,5.03946 -0.08222,7.56313"
+         id="path970" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+         d="m 67.031718,113.20415 c -10.665725,-3.76353 -17.785995,-1.36529 -19.561971,10.62415 -0.383826,2.59117 -0.418754,5.05021 -0.454277,7.67297 -0.07809,5.76565 -0.899154,14.90912 5.439241,17.92669 1.707909,0.8131 5.087194,2.38363 6.214774,0.0345 0.04914,-0.10238 1.532977,-4.48546 1.980994,-3.72716 1.896168,3.20943 2.678723,7.04991 3.743356,10.58694 0.103735,0.34464 -0.311869,-0.68212 -0.286223,-1.04112 0.09622,-1.347 0.860144,-2.27513 1.870855,-3.11667 2.437225,-2.0293 4.841846,-4.07254 7.170605,-6.25044 0.658786,-0.6161 1.605767,-2.27916 2.438228,-2.60829 0.224859,-0.0889 5.172798,5.43609 5.656527,5.98038 0.556488,0.62615 2.274808,2.45872 1.734852,1.81825 -0.606819,-0.71977 0.410583,-2.82939 0.580911,-3.55325 0.379913,-1.61456 0.800404,-3.27146 1.016188,-4.91759 0.208082,-1.58735 0.130821,-3.35265 0.633926,-4.89798 0.05201,-0.15977 0.42073,0.31657 0.531553,0.24794 0.367377,-0.22752 0.590116,-0.92667 0.664432,-1.30887 1.133825,-5.83118 -2.415394,-22.19047 -8.651954,-24.12428 -1.277829,-0.39623 -7.665453,-1.17141 -8.822618,-0.54123 -1.263896,0.6883 0.173916,0.93415 -1.899399,1.19506 z"
+         id="path974" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stop-color:#000000"
+         d="m 70.179757,165.5069 c -5.814356,1.58174 -20.122639,0.93361 -25.132178,3.67707"
+         id="path1091" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stop-color:#000000"
+         d="m 70.179757,165.5069 c 10.040041,-1.57245 20.708215,1.09794 30.624893,-1.48219"
+         id="path1093" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stop-color:#000000"
+         d="m 70.144054,188.90474 c -4.218119,6.54358 -9.418468,12.10141 -14.863802,17.80377"
+         id="path1095" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stroke-linecap:round;stop-color:#000000"
+         d="m 70.144054,188.90474 c 5.819593,5.10826 9.751087,13.51262 16.050316,17.726"
+         id="path1099" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+       d="m 54.212304,224.83863 c -3.1745,-0.88825 -6.460765,-0.89601 -6.343054,3.10595 0.07046,2.39557 0.474363,2.65809 2.848062,3.36068 0.902771,0.26721 1.764302,0.48144 2.709222,0.50395 1.012981,0.0241 2.417942,0.061 3.247178,-0.62403 2.690527,-2.22261 -0.786172,-6.92855 -2.461408,-6.34655 z"
+       id="path2500" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
+       d="m 107.0335,201.8716 c -2.60182,0.73574 -2.49698,6.81056 -1.0501,8.59018 1.26927,1.56117 5.85723,1.85228 7.4439,0.66277 1.00215,-0.75131 0.96661,-2.86297 0.99664,-3.94422 0.0319,-1.14967 0.17325,-2.39804 -0.29069,-3.49194 -0.86303,-2.03491 -3.15953,-2.74581 -5.25608,-2.85776 -0.12124,-0.006 -1.98142,-0.0673 -2.00037,0.0415 -0.009,0.0528 0.15209,0.96306 0.1567,0.99944 z"
+       id="path2502" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="622.40936"
+       y="285.06396"
+       id="text2940"
+       transform="matrix(0.80353018,0,0,0.80353018,-353.14683,-59.933742)"><tspan
+         sodipodi:role="line"
+         id="tspan2938"
+         x="622.40936"
+         y="285.06396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '">godboard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="622.40936"
+       y="285.06396"
+       id="text9754"
+       transform="matrix(0.40395097,0,0,0.40395097,45.865894,35.167743)"><tspan
+         sodipodi:role="line"
+         id="tspan9752"
+         x="622.40936"
+         y="285.06396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '">TM</tspan></text>
+  </g>
+</svg>

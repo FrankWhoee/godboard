@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.93859299"
-     inkscape:cx="653.63795"
-     inkscape:cy="381.42198"
+     inkscape:zoom="0.46929649"
+     inkscape:cx="284.46835"
+     inkscape:cy="364.37519"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -91,29 +91,57 @@
        style="fill:#ffffff;stroke:#000000;stroke-width:4.99999;stop-color:#000000"
        d="m 107.0335,201.8716 c -2.60182,0.73574 -2.49698,6.81056 -1.0501,8.59018 1.26927,1.56117 5.85723,1.85228 7.4439,0.66277 1.00215,-0.75131 0.96661,-2.86297 0.99664,-3.94422 0.0319,-1.14967 0.17325,-2.39804 -0.29069,-3.49194 -0.86303,-2.03491 -3.15953,-2.74581 -5.25608,-2.85776 -0.12124,-0.006 -1.98142,-0.0673 -2.00037,0.0415 -0.009,0.0528 0.15209,0.96306 0.1567,0.99944 z"
        id="path2502" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="622.40936"
-       y="285.06396"
+    <g
+       aria-label="godboard"
+       transform="matrix(0.80353018,0,0,0.80353018,-353.14683,-59.933742)"
        id="text2940"
-       transform="matrix(0.80353018,0,0,0.80353018,-353.14683,-59.933742)"><tspan
-         sodipodi:role="line"
-         id="tspan2938"
-         x="622.40936"
-         y="285.06396"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '">godboard</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       x="622.40936"
-       y="285.06396"
+       style="font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;opacity:1;vector-effect:none;stroke-width:0.999999;stop-color:#000000;stop-opacity:1">
+      <path
+         d="m 638.09292,269.41947 -1.95312,-2.28515 -5.29296,-1.17187 -5.85936,2.18749 -1.99218,7.57811 3.10546,7.0117 6.85545,2.92968 4.08202,-1.91406 -0.13672,4.78515 -2.1289,0.97656 -4.76561,-3.14452 -4.68749,3.59374 3.90624,3.88671 5.64452,2.53905 8.45701,-4.08202 1.38671,-25.52728 -6.46482,-0.9375 z m -0.9375,7.61717 -0.8789,1.44531 -2.57812,0.41016 -2.59765,-2.01172 -0.19531,-1.42578 1.66015,-1.83593 1.62109,0.13672 2.85155,2.03124 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12080" />
+      <path
+         d="m 664.77254,267.73979 2.83202,9.04295 -5.15623,8.45701 -11.05466,-1.32813 -5.21483,-10.21481 4.31639,-7.48045 7.46092,-1.42578 6.81639,2.94921 z m -7.92967,4.2578 -2.4414,2.38281 1.66015,2.3828 2.69531,0.0781 0.97656,-2.87109 -2.89062,-1.97265 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12082" />
+      <path
+         d="m 691.12013,255.84529 -8.33982,0.0976 0.89843,11.75779 -2.79296,-2.96875 -5.66405,0.46875 -4.90233,6.23046 -0.19531,8.92576 4.96092,5.1367 5.58593,-0.50781 3.20311,-1.8164 0.66406,2.14843 7.34374,-0.37109 z m -7.61717,20.48823 -2.51952,1.87499 -3.49609,-3.45702 2.55859,-2.96874 3.02733,1.83593 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12084" />
+      <path
+         d="m 694.32325,283.98975 7.30467,0.72265 0.78125,-2.1289 3.10546,1.97265 5.54686,0.78125 5.1953,-4.90233 0.23437,-8.92576 -4.58983,-6.4453 -5.64452,-0.74218 -2.92968,2.83202 1.46484,-11.69919 -8.32029,-0.50781 z m 9.33591,-10.89841 3.10546,-1.69922 2.42187,3.10546 -3.67186,3.28125 -2.42187,-1.99219 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12086" />
+      <path
+         d="m 736.95986,267.73979 2.83202,9.04295 -5.15623,8.45701 -11.05466,-1.32813 -5.21483,-10.21481 4.31639,-7.48045 7.46092,-1.42578 6.81639,2.94921 z m -7.92967,4.2578 -2.4414,2.38281 1.66015,2.3828 2.69531,0.0781 0.97656,-2.87109 -2.89062,-1.97265 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12088" />
+      <path
+         d="m 755.10435,265.68901 -8.76951,-1.24999 -4.68749,5.7617 4.58983,3.33984 3.88671,-3.04687 0.89844,2.71484 -5.41014,1.17187 -3.78906,3.57421 -0.11718,3.88671 5.07811,3.78905 6.79686,-2.32421 3.16405,2.53905 4.17968,-3.49608 -3.78906,-2.42187 0.89844,-10.56638 z m -3.22265,14.35544 -4.80467,-0.625 4.72655,-1.8164 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12090" />
+      <path
+         d="m 772.70197,274.12649 1.85546,1.99218 5.78124,-1.71874 -1.1914,-4.6289 -5.07812,-3.43749 -4.84374,2.51953 0.0586,-2.40234 -6.48436,0.27344 0.0391,18.63276 h 7.40233 l -0.39063,-9.37497 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12092" />
+      <path
+         d="m 804.49875,255.84529 -8.33982,0.0976 0.89844,11.75779 -2.79297,-2.96875 -5.66404,0.46875 -4.90234,6.23046 -0.19531,8.92576 4.96093,5.1367 5.58592,-0.50781 3.20312,-1.8164 0.66406,2.14843 7.34373,-0.37109 z m -7.61717,20.48823 -2.51952,1.87499 -3.49609,-3.45702 2.55859,-2.96874 3.02734,1.83593 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12094" />
+    </g>
+    <g
+       aria-label="TM"
+       transform="matrix(0.40395097,0,0,0.40395097,45.865894,35.167743)"
        id="text9754"
-       transform="matrix(0.40395097,0,0,0.40395097,45.865894,35.167743)"><tspan
-         sodipodi:role="line"
-         id="tspan9752"
-         x="622.40936"
-         y="285.06396"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '">TM</tspan></text>
+       style="font-size:39.9999px;line-height:1;font-family:Acre;-inkscape-font-specification:Acre;letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;opacity:1;vector-effect:none;stroke-width:0.999999;stop-color:#000000;stop-opacity:1">
+      <path
+         d="m 622.40936,255.37654 29.55071,0.52734 v 11.99216 l -9.99997,-1.64062 2.77343,18.84761 h -14.31637 l 2.14843,-18.84761 -10.15623,-0.50781 v -10.37107 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12097" />
+      <path
+         d="m 654.03038,282.0171 14.27731,-26.42572 h 8.43748 l 2.81249,7.98826 4.96092,-8.02732 7.48045,-0.17578 8.18358,28.76946 -10.66404,0.8789 -2.05077,-7.28514 -2.4414,-7.03123 -7.36327,6.56249 -5.62498,-7.48045 -6.77733,14.35543 -11.23044,-2.1289 z"
+         style="font-family:'Super Mario 286';-inkscape-font-specification:'Super Mario 286, '"
+         id="path12099" />
+    </g>
   </g>
 </svg>
